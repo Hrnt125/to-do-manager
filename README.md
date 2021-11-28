@@ -37,7 +37,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-
+## About
 
 This application is to-do manager, which allows to List, Create, Edit, Delete and Complete To-do items. When new to-do is created, it can be found in 'Active To-Do Items' column.
 Active to-do item has 3 allowed actions: Edit - to update information, Complete - which move to-do to 'Completed To-Do Items', Delete - which removes item from the board.
